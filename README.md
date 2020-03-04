@@ -1,7 +1,7 @@
 # ReactNativePictureLocation
 *App that allows the user to take a picture and save the location where the picture was taken.*
 
-<!--![alt text](https://media.giphy.com/media/W6nvACCH28dIgvDnz7/giphy.gif 'Picutre App in Action')-->
+![alt text](https://media.giphy.com/media/U6k41BdMeH83hH7y5H/giphy.gif 'Picutre App in Action')
 
 Users can take pictures and save the location of where the picture was taken. This is similiar to apps like yelp or reviews written on google.
 
